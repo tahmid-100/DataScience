@@ -1,0 +1,8 @@
+Track:
+1.Associate AI Engineer for Data Scientists
+2.Deep Learning/////
+3.Deep Learning for Images with PyTorch////
+4.Fast api
+5.Machine Learning in Production in Python
+6.Ml scientist////
+7.Machine Learning Engineer
